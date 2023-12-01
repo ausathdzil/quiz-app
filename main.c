@@ -1,6 +1,6 @@
 #include <ctype.h> // functions used: tolower()
 #include <stdio.h> // functions used: printf(), scanf(), fgets(), fopen(), fclose(), fscanf(), fprintf(), perror()
-#include <stdlib.h> // functions used: system(), exit(), srand(), rand(), strtof()
+#include <stdlib.h> // functions used: exit(), srand(), rand(), strtof()
 #include <string.h> // functions used: strncpy()
 #include <stdbool.h> // data type used: bool
 #include <time.h> // functions used: time(), clock()
