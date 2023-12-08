@@ -639,7 +639,7 @@ void clearInputBuffer() {
 
 void clearScreen() {
     // Clearing the screen for better user experience
-    printf("\033[2J\033[H");
+    system("cls");
 }
 
 void delay(int number_of_seconds) {
